@@ -1,0 +1,11 @@
+{
+  "timestamp": 1760518983,
+  "model": null,
+  "endpoint": null,
+  "sampling_params": {
+    "temperature": null,
+    "max_tokens": null
+  },
+  "task": "<your final user task>",
+  "final_answer": "<paste the agent\u2019s final answer or summary>"
+}
